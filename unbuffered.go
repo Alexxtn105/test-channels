@@ -33,10 +33,4 @@ func main() {
 
 	//endregion
 
-	//region Буферизированный канал
-
-	fmt.Println("--------Буферизированный канал---------")
-
-	//endregion
-
 }
